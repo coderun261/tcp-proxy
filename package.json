@@ -1,0 +1,16 @@
+{
+  "name": "tcp-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-tcp-proxy": "^0.0.28",
+    "util": "^0.12.5"
+  }
+}
